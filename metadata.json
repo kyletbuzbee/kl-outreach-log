@@ -1,0 +1,5 @@
+{
+  "name": "K&L Recycling CRM & Route Planner",
+  "description": "A comprehensive sales pipeline CRM tailored for K&L Recycling. It cleans and merges prospect, account, and outreach data to provide actionable insights, route planning, and easy visit logging with two-way Excel/Google Sheets synchronization.",
+  "requestFramePermissions": []
+}
