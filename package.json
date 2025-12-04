@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && echo 'Built files are in docs/ folder. Commit and push to deploy to GitHub Pages.'"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
