@@ -11,7 +11,7 @@
     "deploy": "npm run build && echo 'Built files are in docs/ folder. Commit and push to deploy to GitHub Pages.'"
   },
   "dependencies": {
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.555.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "recharts": "^2.12.2"
